@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Viktoriia Sidorova</h1>
 <h3 align="center">A passionate Android developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eliseevavika" alt="eliseevavika" /></a> </p>
-
 - 🔭 I’m currently working on [Meal Preparation Android app](https://github.com/eliseevavika/MealPrep)
 
 - 🌱 I’m currently learning **Compose, Kotlin**
