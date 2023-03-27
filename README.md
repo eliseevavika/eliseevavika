@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Viktoriia Sidorova</h1>
 <h3 align="center">A passionate Android developer</h3>
 
+
+
 - 🔭 I’m currently working on [Meal Preparation Android app](https://github.com/eliseevavika/MealPrep)
 
 - 🌱 I’m currently learning **Compose, Kotlin**
@@ -24,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliseevavika&show_icons=true&locale=en&layout=compact" alt="eliseevavika" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliseevavika&show_icons=true&locale=en" alt="eliseevavika" /></p>
+
+![Alt text](/50dayscodebadge.png?raw=true "Optional Title")
