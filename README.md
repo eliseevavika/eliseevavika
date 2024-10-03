@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **heyvika7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1urvkNfJ7qC2_idpouEHYS0D60sNYPpQE/view?usp=sharing](https://drive.google.com/file/d/1urvkNfJ7qC2_idpouEHYS0D60sNYPpQE/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1TurOxCRUHFiBfk53LMRvFlAoqQ8iIjQA/view?usp=sharing](https://drive.google.com/file/d/1TurOxCRUHFiBfk53LMRvFlAoqQ8iIjQA/view?usp=sharing)
 
 - ⚡ Fun fact **I write with my left hand, but I do everything else with my right hand: I work with the mouse, I eat, I cut with scissors, a knife, ets**
 
